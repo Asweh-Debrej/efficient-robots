@@ -6,5 +6,5 @@ data:extend({{
     setting_type = "startup",
     minimum_value = 0,
     maximum_value = 100,
-    default_value = 80
+    default_value = 50
 }})
